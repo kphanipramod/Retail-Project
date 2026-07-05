@@ -1,0 +1,13 @@
+{
+  "name": "greencart-checkout-domain",
+  "version": "1.0.0",
+  "description": "Checkout domain logic for the GreenKart cart review and order placement flow.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
